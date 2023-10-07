@@ -3,7 +3,7 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=学而不思则罔!;思而不学则怠!;学无止境!&font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30"> </h1>
   
 <img width="200%" src="https://github.com/KingCode-01/KingCode-01/blob/main/share/hr.gif" />
-<img  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+<img  src="https://github.com/KingCode-01/KingCode-01/blob/main/share/coffee.gif"  width="100%" height="100%"/>
 <img width="200%" src="https://github.com/KingCode-01/KingCode-01/blob/main/share/hr.gif" />
 
 <img src="https://github.com/KingCode-01/KingCode-01/blob/main/share/terminal.gif?raw=true" width="100%" height="100%">

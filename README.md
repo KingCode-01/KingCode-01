@@ -5,7 +5,7 @@
 <img width="200%" src="https://github.com/KingCode-01/KingCode-01/blob/main/share/hr.gif" />
 <div align="center">
   <img src="https://github.com/KingCode-01/KingCode-01/blob/main/share/terminal.gif?raw=true" width="40%" height="40%">
-  <img  src="https://github.com/KingCode-01/KingCode-01/blob/main/share/coffee.gif?raw=true"  width="40%" height="40%"/>
+  <img  src="https://github.com/KingCode-01/KingCode-01/blob/main/share/coffee.gif?raw=true"  width="50%" height="50%"/>
 </div>
 <img width="200%" src="https://github.com/KingCode-01/KingCode-01/blob/main/share/hr.gif" />
 <!-- Snake Code Contribution Map-->

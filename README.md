@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);学而不思则罔;思而不学则怠;学无止境!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);学而不思则罔;思而不学则怠;学无止境!&center=true&size=17"> </a> </h1>
 <div align="center"> <img height="138px" src="https://github-readme-streak-stats.herokuapp.com/?user=KingCode-01&theme=ambient-gradient" /> </div>
 
 

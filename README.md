@@ -7,10 +7,6 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
-<!--极客挑战-->
-<img align='right' src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/xiaohuoche.gif?raw=true" width="40%">
-<!--小火车-->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/terminal.gif?raw=true" width="50%" height="50%">
 
 <!-- Snake Code Contribution Map-->
 <picture>

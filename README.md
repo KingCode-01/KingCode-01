@@ -6,7 +6,9 @@
 <img  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/terminal.gif?raw=true" width="50%" height="50%">
+https://github.com/KingCode-01/KingCode-01/blob/main/share/terminal.gif
+https://github.com/heartyang520/HeartYang.github.io/blob/main/share/terminal.gif
+<img src="https://github.com/KingCode-01/KingCode-01/blob/main/share/terminal.gif?raw=true" width="50%" height="50%">
 
 <!-- Snake Code Contribution Map-->
 <picture>

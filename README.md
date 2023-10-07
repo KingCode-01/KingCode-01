@@ -1,8 +1,5 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=学而不思则罔!;思而不学则怠!;学无止境!&center=true&size=27"> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=学而不思则罔!;思而不学则怠!;学无止境!&font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30"> </h1>
 
-<h2 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30&lines=学而不思则罔!;思而不学则怠!;学无止境!)](https://git.io/typing-svg)
-</h2>
 <div align="center"> <img height="138px" src="https://github-readme-streak-stats.herokuapp.com/?user=KingCode-01&theme=ambient-gradient" /> </div>
 
 

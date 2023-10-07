@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="width:700px ;height: 100px;">
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=学而不思则罔!;思而不学则怠!;学无止境!&font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30"> </h1>
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -20,6 +20,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingCode-01&theme=github-compact" />
 
-<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img> src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 
 </div>

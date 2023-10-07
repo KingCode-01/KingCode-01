@@ -6,9 +6,6 @@
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=KingCode-01.KingCode-01&left_color=green&right_color=red" /> </div>
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingCode-01&theme=dracula" /> </div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingCode-01&theme=Xcode" /> </div>
 
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>

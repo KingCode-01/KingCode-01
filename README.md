@@ -3,3 +3,4 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingCode-01&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=KingCode-01&theme=dracula&column=3&margin-w=15&margin-h=15" /> </div>
+![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml)

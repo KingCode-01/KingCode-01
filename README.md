@@ -1,8 +1,8 @@
 <div align="center" >
 <img width="200%" src="https://github.com/KingCode-01/KingCode-01/blob/main/share/hr.gif" />
-  
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=学而不思则罔!;思而不学则怠!;学无止境!&font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30)](https://git.io/typing-svg)
-  
+</div>
 <img width="200%" src="https://github.com/KingCode-01/KingCode-01/blob/main/share/hr.gif" />
 <div align="center">
   <img src="https://github.com/KingCode-01/KingCode-01/blob/main/share/terminal.gif?raw=true" width="40%" height="40%">

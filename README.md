@@ -1,7 +1,7 @@
 <div align="center" >
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=学而不思则罔!;思而不学则怠!;学无止境!&font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30"> </h1>
 
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+<img height="500" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 
 <!-- Snake Code Contribution Map-->
 <picture>

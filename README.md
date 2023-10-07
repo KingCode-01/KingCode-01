@@ -3,8 +3,10 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=学而不思则罔!;思而不学则怠!;学无止境!&font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30"> </h1>
   
 <img width="200%" src="https://github.com/KingCode-01/KingCode-01/blob/main/share/hr.gif" />
-<div align="right"><img  src="https://github.com/KingCode-01/KingCode-01/blob/main/share/coffee.gif"  width="60%" height="60%"/>
-<div align="left"><img src="https://github.com/KingCode-01/KingCode-01/blob/main/share/terminal.gif?raw=true" width="60%" height="60%">
+<div align="center">
+<div align="right"><img  src="https://github.com/KingCode-01/KingCode-01/blob/main/share/coffee.gif"  width="40%" height="40%"/>
+<div align="left"><img src="https://github.com/KingCode-01/KingCode-01/blob/main/share/terminal.gif?raw=true" width="40%" height="40%">
+</div>
 <img width="200%" src="https://github.com/KingCode-01/KingCode-01/blob/main/share/hr.gif" />
 <!-- Snake Code Contribution Map-->
 <picture>
